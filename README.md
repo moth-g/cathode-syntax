@@ -4,7 +4,7 @@ A sleek dark syntax theme for Atom, part of Moth's [FONC YOU](https://germanpont
 
 Cathode is a modern take on the Olden Monitor subject, in bluish, not-really-monochrome hues that submerge you in an ocean of cyberspatial electrons.
 
-![Cathode Screenshot](https://raw.githubusercontent.com/moth-g/cathode-syntax/master/cathode_ss01.png)
+![Cathode Screenshot](https://user-images.githubusercontent.com/73740741/97788622-a28dc880-1bba-11eb-8836-b1f9d6390af8.png)
 `Font: Inconsolata / UI: One Dark / CSS colors: highlight-colors by brumm (not part of the theme)`
 
 Perfect choice for hackers who work in monitor-lit lairs and retro-futuristic evil corporations intent on replacing humanity with robot dopplegängers.
