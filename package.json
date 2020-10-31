@@ -1,0 +1,19 @@
+{
+  "name": "cathode-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A sleek dark syntax theme for Atom, part of Moth's FONC YOU collection.",
+  "keywords": [
+    "cathode",
+    "dark",
+    "syntax",
+    "theme",
+    "blue",
+    "minimal"
+  ],
+  "repository": "https://github.com/moth-g/cathode-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
