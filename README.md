@@ -33,13 +33,14 @@ Moth's FONC YOU (Few Or No Colors Yield Optimal Usage) collection is a sedate ap
 
 Dark themes:
 
-+ Moth One
-+ Moth Mono
-+ Moth Dark
++ *Cathode*
++ [Moth One](https://github.com/moth-g/moth-one-syntax)
++ [Moth Mono](https://github.com/moth-g/moth-mono-syntax)
++ [Moth Dark](https://github.com/moth-g/moth-dark-syntax)
 
 Light Themes:
 
-+ Anode
-+ Moth Light
++ [Anode](https://github.com/moth-g/anode-syntax)
++ [Moth Light](https://github.com/moth-g/moth-light-syntax)
 
 Learn more and see the themes in action at the [FONC YOU web page](https://germanponte.com/moth/foncyou/).
